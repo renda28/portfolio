@@ -4,3 +4,7 @@ const toggleMenu = () => {
   menu.classList.toggle("open");
   icon.classList.toggle("open");
 };
+
+const openNewTab = (link) => {
+  window.open(link);
+};
