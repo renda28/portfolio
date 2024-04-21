@@ -10,7 +10,7 @@ A simple website to showcase my skills
 
 - none
 
-# How to use
+# Demo
 
 - visit link
 
