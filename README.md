@@ -12,7 +12,7 @@ A simple website to showcase my skills
 
 # Demo
 
-- visit link
+- [link](https://renzel-david-portfolio.netlify.app/)
 
 # Technologies
 
